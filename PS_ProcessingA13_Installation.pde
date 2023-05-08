@@ -1,10 +1,6 @@
 //Plant Symphony
 //an interactive sound installation
 
-//test 
-//test May 8
-//new line
-//another new line
 
 import processing.serial.*;
 
